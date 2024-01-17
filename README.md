@@ -15,4 +15,4 @@ Over the past few months, I have been absolutely stoked about using and learning
 ## Current Projects
 I check the weather a lot, so I built a sweet weather app that runs in terminal because I love TUI projects and was inspired by [edex-ui](https://github.com/GitSquared/edex-ui). Check out [elegant-weather](https://github.com/andalex/elegant-weather) project, built in React/TS and [Ink](https://github.com/vadimdemedes/ink/).
 
-![Screenshot 2024-01-17 at 2 30 42 PM](https://github.com/andalex/andalex/assets/8305414/137832a0-53de-4d6d-8c74-20812f9452a4)
+![Screenshot 2024-01-17 at 2 33 13 PM](https://github.com/andalex/andalex/assets/8305414/8ec76ad2-195e-4584-8037-28a57a4f928d)
