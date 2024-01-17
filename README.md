@@ -13,4 +13,6 @@ Over the past few months, I have been absolutely stoked about using and learning
 ![__next_static_media_editor-download 9b999160](https://github.com/andalex/andalex/assets/8305414/192e597e-2fd5-4627-b844-073b212d2d89)
 
 ## Current Projects
-I check the weather a lot, so I built a sweet weather app that runs in terminal because I love TUI projects and was inspired by [edex-ui](https://github.com/GitSquared/edex-ui). Check out the retro vibes in the [elegant-weather](https://github.com/andalex/elegant-weather) project, built with React and Ink.
+I check the weather a lot, so I built a sweet weather app that runs in terminal because I love TUI projects and was inspired by [edex-ui](https://github.com/GitSquared/edex-ui). Check out [elegant-weather](https://github.com/andalex/elegant-weather) project, built in React/TS and [Ink](https://github.com/vadimdemedes/ink/).
+
+![Screenshot 2024-01-17 at 2 30 42 PM](https://github.com/andalex/andalex/assets/8305414/137832a0-53de-4d6d-8c74-20812f9452a4)
