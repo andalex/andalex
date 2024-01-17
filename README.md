@@ -1,16 +1,13 @@
-### Hi there 👋
+![ALEX ANDERSON](https://github.com/andalex/andalex/assets/8305414/3f6feeda-72b0-46d5-8241-2fa8a7c2a43a)<svg width="1176" height="109" viewBox="0 0 1176 109" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.552 107L55.976 1.272H83.24L93.992 107H73.256L71.848 89.464H30.76L21.928 107H0.552ZM39.592 72.056H70.568L66.728 22.008L66.216 19.32L64.808 22.008L39.592 72.056ZM103.384 107L125.912 1.272H146.008L127.192 89.464H176.984L173.144 107H103.384ZM184.134 107L206.662 1.272H276.422L272.71 18.808H223.046L217.286 45.432H263.494L259.782 62.84H213.702L207.942 89.464H257.734L253.894 107H184.134ZM260.424 107L305.224 53.88L284.36 1.272H306.248L319.816 39.032L349.384 1.272H373.192L329.288 54.008L351.048 107H329.032L314.696 68.856L284.104 107H260.424ZM386.177 107L441.601 1.272H468.865L479.617 107H458.881L457.473 89.464H416.385L407.553 107H386.177ZM425.217 72.056H456.193L452.353 22.008L451.841 19.32L450.433 22.008L425.217 72.056ZM489.009 107L511.537 1.272H530.481L559.921 72.44L575.281 1.272H594.481L571.953 107H553.009L523.697 35.832L508.337 107H489.009ZM590.509 107L613.037 1.272H652.205C681.133 1.272 694.701 20.6 687.661 52.216L684.205 68.6C678.445 95.608 663.853 107 635.053 107H590.509ZM614.189 90.104H637.613C653.229 90.104 660.525 83.064 663.981 66.936L668.077 47.48C672.045 28.792 666.157 18.168 650.541 18.168H629.421L614.189 90.104ZM691.134 107L713.662 1.272H783.422L779.71 18.808H730.046L724.286 45.432H770.494L766.782 62.84H720.702L714.942 89.464H764.734L760.894 107H691.134ZM839.997 107C839.229 104.696 839.485 100.6 840.253 97.272L843.581 81.528C845.757 71.8 841.789 67.448 833.341 67.448H805.053L796.605 107H776.509L799.037 1.272H843.325C866.109 1.272 878.397 13.176 873.789 34.936L873.533 35.704C870.333 50.168 864.445 56.184 853.053 58.872C864.829 63.352 865.597 73.976 863.293 84.088L860.349 97.912C859.453 102.136 859.197 105.208 859.709 107H839.997ZM808.637 50.552H835.901C846.141 50.552 850.493 47.48 852.413 38.136L853.693 32.12C855.869 22.52 851.517 18.168 841.917 18.168H815.549L808.637 50.552ZM919.562 108.28C890.506 108.28 875.402 97.272 877.834 72.056L878.346 68.6H898.698L897.674 74.872C896.778 86.008 902.154 91.256 919.818 91.256C932.874 91.256 937.226 87.928 937.866 77.432C938.506 67.704 932.746 65.016 925.45 62.584L911.626 57.336C898.57 52.6 887.434 46.84 888.458 28.792C889.61 10.616 901.642 -0.00800323 926.73 -0.00800323C955.53 -0.00800323 967.69 12.024 965.642 31.864L965.13 35.96H944.65L945.546 30.84C946.442 20.6 940.682 16.888 926.602 16.888C913.674 16.888 909.45 20.216 908.81 28.536C908.17 36.984 915.082 39.672 920.586 41.592L933.13 46.584C946.954 51.32 959.498 56.696 958.346 77.048C957.066 97.656 946.058 108.28 919.562 108.28ZM1015.15 108.28C984.685 108.28 966.637 88.44 973.165 58.232L976.621 42.104C981.357 19.064 995.949 -0.00800323 1025.39 -0.00800323C1055.73 -0.00800323 1073.77 20.472 1067.25 50.424L1063.92 66.168C1059.18 88.952 1044.85 108.28 1015.15 108.28ZM993.005 61.816C989.677 77.56 996.461 90.872 1015.15 90.872C1032.94 90.872 1040.62 78.84 1043.18 66.808L1047.41 46.456C1050.99 30.584 1043.95 17.4 1025.13 17.4C1007.34 17.4 999.789 29.688 997.357 41.464L993.005 61.816ZM1070.01 107L1092.54 1.272H1111.48L1140.92 72.44L1156.28 1.272H1175.48L1152.95 107H1134.01L1104.7 35.832L1089.34 107H1070.01Z" fill="#F3F1E9"/>
+</svg>
 
-<!--
-**andalex/andalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I approach the world with curiosity and love to create-- something I apply in my personal life as well as my career. For the past 7 years I've been a software engineer, where my primary focus has been frontend application development and infrastructure. I embrace the challenge of delving into unfamiliar problem domains and finding success with my teammates--collaboration skills are as important as technical skills. Now seeking opportunities, I aim to leverage my expertise gained in the financial services sector to make a meaningful impact in my next role.
 
-Here are some ideas to get you started:
+✨ If you'd like to get in touch about projects or roles, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alexcoleanderson/) ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring: [spline.design](https://spline.design/)
+Over the past few months, I have been absolutely stoked about using and learning Spline. Spline is a browser-based 3D design tool that boasts real time collaboration, a number of AI driven features, and a vast yet usable editor. I really enjoy that they created a community space as a part of their product so I can check out if anyone has figured out a problem I'm working through. As someone that works on web projects, I liked the capability to export your 3D project and render it in browser via their package [@splinetool/runtime](https://www.npmjs.com/package/@splinetool/runtime). If you like 3D art for web, but it's felt too daunting to jump into other tools before, I highly recommend Spline.
+
+![__next_static_media_editor-download 9b999160](https://github.com/andalex/andalex/assets/8305414/192e597e-2fd5-4627-b844-073b212d2d89)
