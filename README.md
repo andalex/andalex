@@ -11,3 +11,6 @@ I approach the world with curiosity and love to create-- something I apply in my
 Over the past few months, I have been absolutely stoked about using and learning Spline. Spline is a browser-based 3D design tool that boasts real time collaboration, a number of AI driven features, and a vast yet usable editor. I really enjoy that they created a community space as a part of their product so I can check out if anyone has figured out a problem I'm working through. As someone that works on web projects, I liked the capability to export your 3D project and render it in browser via their package [@splinetool/runtime](https://www.npmjs.com/package/@splinetool/runtime). If you like 3D art for web, but it's felt too daunting to jump into other tools before, I highly recommend Spline.
 
 ![__next_static_media_editor-download 9b999160](https://github.com/andalex/andalex/assets/8305414/192e597e-2fd5-4627-b844-073b212d2d89)
+
+## Current Projects
+I check the weather a lot, so I built a sweet weather app that runs in terminal because I love TUI projects and was inspired by [edex-ui](https://github.com/GitSquared/edex-ui). Check out the retro vibes in the [elegant-weather](https://github.com/andalex/elegant-weather) project, built with React and Ink.
