@@ -5,8 +5,6 @@
 ## About
 I approach the world with curiosity and love to create-- something I apply in my personal life as well as my career. For the past 7 years I've been a software engineer, where my primary focus has been frontend application development and infrastructure. I embrace the challenge of delving into unfamiliar problem domains and finding success with my teammates--collaboration skills are as important as technical skills. Now seeking opportunities, I aim to leverage my expertise gained in the financial services sector to make a meaningful impact in my next role.
 
-✨ If you'd like to get in touch about projects or roles, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alexcoleanderson/) ✨
-
 ## Currently Exploring: [spline.design](https://spline.design/)
 Over the past few months, I have been absolutely stoked about using and learning Spline. Spline is a browser-based 3D design tool that boasts real time collaboration, a number of AI driven features, and a vast yet usable editor. I really enjoy that they created a community space as a part of their product so I can check out if anyone has figured out a problem I'm working through. As someone that works on web projects, I liked the capability to export your 3D project and render it in browser via their package [@splinetool/runtime](https://www.npmjs.com/package/@splinetool/runtime). If you like 3D art for web, but it's felt too daunting to jump into other tools before, I highly recommend Spline.
 
